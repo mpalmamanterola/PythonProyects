@@ -1,4 +1,5 @@
-# Python proyects 
+# Python proyects
+Portfolio where knowledge of data analysis, Artificial Intelligence, Machine Learning and Deep Learning is applied.
 
 These will be my forays into learning Python for data science. I'll track my projects here with a quick note on what each project does.
 
