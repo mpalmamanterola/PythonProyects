@@ -8,6 +8,9 @@ Groundwater has a very close relationship with human society thanks to the fact 
 
 Because of the proportion of satellite data at a low resolution is necessary to perform a data processing called Downscaling that converts large-scale and low-resolution data into small-scale data at a high resolution. In this case, we used Random Forest Regressor using hidrological explicative variables for all continental Chilean territory.
 
+![alt text](/images/Before_Downscalling_v0-09-02.jpeg "Low resolution GRACE data")
+![alt text](/images/Downscalling_v0-09-02.jpeg "Downscaled GRACE data")
+
 ## Neural Networks
 
 Folder containing python notebooks where various Machine Learning and Deep Learning Neural Networks are implemented for multiple tasks such as basic natural language processing, classification, generative networks and machine translation using Transformers.
