@@ -20,6 +20,21 @@ Because of the proportion of satellite data at a low resolution is necessary to 
 
 Folder containing python notebooks where various Machine Learning and Deep Learning Neural Networks are implemented for multiple tasks such as basic natural language processing, classification, generative networks and machine translation using Transformers.
 
+### EfficentNetB0
+
+Neural Network that optimally scales depth, width and resolution using small grid search.
+<p align="center">
+<img src="/images/efficentnet-accuracy-plot.jpg" width="300"> 
+</p>
+
+### InfoGAN
+
+Generative Adversarial Network which is capable of learning untangled representations of the characteristics of the images with the aim of modifying them by maximizing the mutual information between the untangled variables and the Generator.
+
+<p align="center">
+<img src="/images/InfoGAN_results.png" width="300"> 
+</p>
+
 ## EFD MS-823 Proyect
 Project in which around $90$ Arduino sensors and a considerable amount of SUM sensors were available to carry out measurements in a total of $396$ homes. To meet this objective, the first thing was to collect the information, a process that lasted approximately $3$ weeks, during that time, an external company installed the sensors as mentioned above, they carried out readings for $48$ hours and upon returning from home they They disinfected and the information was extracted in `.csv` format in a folder with the home code, where if the file begins with a letter `P` it means that it is Pellet heating and an `L` if it corresponded to a house to Firewood, said letter followed by a unique identification code. Finally, the information of the sensor was eliminated to do a general check and that they can continue making measurements in a different house.
 
