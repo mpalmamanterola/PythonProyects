@@ -24,7 +24,7 @@ Folder containing python notebooks where various Machine Learning and Deep Learn
 
 Neural Network that optimally scales depth, width and resolution using small grid search.
 <p align="center">
-<img src="/images/efficentnet-accuracy-plot.jpg" width="300"> 
+<img src="/images/efficentnet-accuracy-plot.jpg" width="500"> 
 </p>
 
 ### InfoGAN
@@ -32,7 +32,7 @@ Neural Network that optimally scales depth, width and resolution using small gri
 Generative Adversarial Network which is capable of learning untangled representations of the characteristics of the images with the aim of modifying them by maximizing the mutual information between the untangled variables and the Generator.
 
 <p align="center">
-<img src="/images/InfoGAN_results.png" width="300"> 
+<img src="/images/InfoGAN_results.png" width="500"> 
 </p>
 
 ## EFD MS-823 Proyect
