@@ -35,6 +35,10 @@ Generative Adversarial Network which is capable of learning untangled representa
 <img src="/images/InfoGAN_results.png" width="500"> 
 </p>
 
+<p align="center">
+<img src="/images/infogan_mnist.gif" width="300"> 
+</p>
+
 ## EFD MS-823 Proyect
 Project in which around $90$ Arduino sensors and a considerable amount of SUM sensors were available to carry out measurements in a total of $396$ homes. To meet this objective, the first thing was to collect the information, a process that lasted approximately $3$ weeks, during that time, an external company installed the sensors as mentioned above, they carried out readings for $48$ hours and upon returning from home they They disinfected and the information was extracted in `.csv` format in a folder with the home code, where if the file begins with a letter `P` it means that it is Pellet heating and an `L` if it corresponded to a house to Firewood, said letter followed by a unique identification code. Finally, the information of the sensor was eliminated to do a general check and that they can continue making measurements in a different house.
 
