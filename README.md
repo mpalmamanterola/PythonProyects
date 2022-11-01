@@ -8,7 +8,9 @@ Groundwater has a very close relationship with human society thanks to the fact 
 
 Because of the proportion of satellite data at a low resolution is necessary to perform a data processing called Downscaling that converts large-scale and low-resolution data into small-scale data at a high resolution. In this case, we used Random Forest Regressor using hidrological explicative variables for all continental Chilean territory.
 
+<p align="center">
 <img src="/images/Before_Downscalling_v0-09-02.jpeg" height="400"> <img src="/images/Downscalling_v0-09-02.jpeg" height="400">
+</p>
 
 ## Neural Networks
 
